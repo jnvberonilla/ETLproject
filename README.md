@@ -14,4 +14,4 @@ The CDC data set came with more data than we needed. We dropped all the columns 
 
 L
 
-We decided to use a declarative base instead of an automap. We originally wanted to do an automap base so it would create the database for us. We created the classes to serve as an anchor point for our tables. Here we defined the columns and what dtype would live there. After that we created the engine. Next we created a for loop to go through the data frames we created earlier. This filled the database.
+We decided to use a declarative base instead of an automap. We originally wanted to do an automap base so it would create the database for us. We coudln't use automap because script told us the impaired file already exists. We created the classes to serve as an anchor point for our tables. Here we defined the columns and what dtype would live there. After that we created the engine. Next we created a for loop to go through the data frames we created earlier. This filled the database.
