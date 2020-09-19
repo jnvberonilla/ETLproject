@@ -1,5 +1,7 @@
 # ETLproject
 
+Our original plan was to find the amount of DUIs in Oregon counties then, look at how many restaurants (that serve alcohol) and bars in those counties. We weren't able to find good, easy to read data sets with all the information we needed. So, we broadened our scope to all 50 states and their DUI and restaurant counts. We then shifted to go into the alcohol consumption instead of restaurants and impaired driving deaths instead of DUIs.
+
 E
 
 One of the data sets we chose was from the CDC on the impaired driving death rate by state in 2012. We downloaded a CSV file of this data. The next data set we used was a ranking of the states by their alcohol consumption in gallons. This data set was created for an article using data from the National Institute on Alcohol Abuse and Alcoholism. This was also a CSV file.
